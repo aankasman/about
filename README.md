@@ -1,7 +1,7 @@
 # about
 ## 👋 Hi, @aankasman here
 - 👀 In decentralized economy
-- 💞️ CI/CD and DevSecOps
+- 💞️ DevSecOps
 - 📫 Reach me out #cloud #sky
 
 <!---
